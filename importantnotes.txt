@@ -1,0 +1,17 @@
+.gitignore let's the github know which files we don't want to upload to github
+
+requirements.txt
+
+pip install -r requirements.txt
+
+manage.py
+
+python manage.py rsd
+
+config.py
+
+it contains information to set configurations/environment(devlopment, stage, production)
+
+__init__.py it is one of the most imp. file in flask it is used to initialize a folder
+
+sql files are used to put data in the database
